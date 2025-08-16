@@ -35,6 +35,12 @@ Unauthorized copying, reproduction, or distribution of any part of this website 
 
 ---
 
+## ⚠️ File Structure & Usage
+When editing or linking files, make sure you follow the correct paths.  
+For example, to include the main stylesheet, use:
+```html
+<link rel="stylesheet" href="css/style.css">
+
 ## 📧 Contact
 For inquiries, please visit the [Contact page](https://www.tunahanhaksever.com/contact) or send an email to **[tunahanhaksever@gmail.com]**.
 
