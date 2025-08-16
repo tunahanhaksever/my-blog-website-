@@ -6,12 +6,12 @@ It showcases my portfolio, projects, and professional information.
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 Visit the website here: [www.tunahanhaksever.com](https://www.tunahanhaksever.com)
 
 ---
 
-## 🛠️ Built With
+##  Built With
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -19,7 +19,7 @@ Visit the website here: [www.tunahanhaksever.com](https://www.tunahanhaksever.co
 
 ---
 
-## 📌 Features
+##  Features
 - Fully responsive design for all devices
 - Portfolio showcase
 - Contact form
@@ -28,7 +28,7 @@ Visit the website here: [www.tunahanhaksever.com](https://www.tunahanhaksever.co
 
 ---
 
-## 📜 Legal Notice
+##  Legal Notice
 All content, images, and design on this website are the property of **Tunahan Haksever**  
 and are protected by international copyright laws.  
 Unauthorized copying, reproduction, or distribution of any part of this website is strictly prohibited.  
